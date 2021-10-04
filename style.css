@@ -27,11 +27,9 @@ body{
   max-height:200px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.30);
 }
-
 .info-perfil{
   margin-left:20px;
 }
-
 .info-perfil h1{
   font-weight: 700;
   font-size:36px;
@@ -65,13 +63,11 @@ body{
   box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.32);
   
 }
-
 .projeto-lista{
   list-style: none;
   font-weight: 700;
   font-size:36px;
 }
-
 div#projeto-item{
   display:list-item;
   list-style-type: none;
@@ -79,7 +75,6 @@ div#projeto-item{
   font-size:18px;
   line-height:24px;
 }
-
 div#projeto-item a{
   color: #1C1C1C;
   text-decoration: none;
@@ -97,5 +92,19 @@ div#projeto-item a{
   background: #1c1c1c;
 }
 .dark #projeto-item a{
+  color: white;
+}
+
+.space{
+  background:linear-gradient(180.85deg, #000000 27.26%, #3072ff 96.03%)
+}
+.space .container{
+  background: rgb(255, 255, 255);
+}
+.space .projetos{
+  background: #140033;
+  color:white;
+}
+.space #projeto-item a{
   color: white;
 }
