@@ -1,11 +1,10 @@
 function temaEscuro(){
   document.body.classList.toggle("dark")
-  var nome = document.getElementById("btn-tema-escuro")
-  console.log(nome)
+  var elementoDark = document.getElementById("btn-tema-escuro")
   
 }
 
 function temaEspaco(){
-  var elementoEspaco = document.getElementById("btn-tema-espaco")
-  console.log(elementoEspaco)
+  document.body.classList.toggle("space")
+  var elementoSpace = document.getElementById("btn-tema-espaco")
 }
