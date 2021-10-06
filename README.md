@@ -5,13 +5,3 @@ Obrigado, Alura! Ótimo conteúdo.
 - Ao todo o projeto foi desenvolvido no [CodePen](https://codepen.io/).
 
 ----------------------------------------------------------------
-
-Utilizando como base para criação do portfólio com projetos próprios.
-
-Começando a construção de um portfolio, buscando:
-- Aprimorar tema escuro
-- Aprimorar tema atual
-- ~~Criação de um tema espaço~~
-- Adicionar novos projetos
-  - X * Y = K
-  - 3x + 1
