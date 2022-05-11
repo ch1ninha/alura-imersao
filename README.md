@@ -5,3 +5,9 @@ Obrigado, Alura! Ótimo conteúdo.
 - Ao todo o projeto foi desenvolvido no [CodePen](https://codepen.io/).
 
 ----------------------------------------------------------------
+
+
+edit (2022-05-11)
+### Revisando um tempo depois
+Virei aluno do alura depois dessa imersão, não utilizo javascript ou html DIRETAMENTE no serviço de diario, porêm revendo os códigos da para ver como evoluimos e pude perceber melhorias na propria construção do código, fazendo algumas modificações dentro do codepen nas atividades.
+- Pensando em transformar os rep "chininha-mind" e "alura-imersao" como base para o novo rep em flask.
